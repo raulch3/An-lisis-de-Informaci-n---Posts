@@ -1,5 +1,4 @@
 # Análisis de Información 
-En este repositorio estaré subiendo los análisis en Economía, Finanzas, Procesos de control y demás relacionados.
 
 ## Salarios VS Canasta Básica
 
